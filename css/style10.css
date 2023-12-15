@@ -1,0 +1,53 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.container{
+	width:90%;
+	margin:0 auto;
+}
+
+.row{
+	display:flex;
+	gap:10px;
+}
+
+.img-full{
+	max-width:100%;
+}
+
+.team-section.sec-title h1{
+	font-family: 'Poppins', sans-serif;
+	font-size:40px;
+	font-weight:700;
+	text-transform:uppercase;
+	text-decoration:underline;
+}
+
+.team-card{
+	border:1px solid #ddd;
+	border-radius:10px;
+}
+
+.team-card .team-cont{
+	padding:15px;
+}
+
+.team-card .team-cont h3{
+	font-family: 'Poppins', sans-serif;
+	font-size:20px;
+	font-weight:500;
+	color:#000;
+}
+
+.team-card .team-cont p{
+	font-family: 'Poppins', sans-serif;
+	font-size:14px;
+	font-weight:400;
+	color:#c4b6b6;
+}
+
+	
+	
